@@ -1,0 +1,6 @@
+Snorlax;./images/Immagini Pokemon/snorlax.png;90;<html>Snorlax è un pokemon<html> che ama dormire.<html> Mentre riposa è in grado<html> di recuperare le energie perse<html> in battaglia.<html>;40;Cura;
+Pikachu;./images/Immagini Pokemon/pikachu.gif;100;<html>Pikachu è un pokemon<html> piccolo e veloce.<html> Durante il combattimento<html> è in grado di velocizzare le sue mosse<html>;40;Supervelocità;
+Bulbasaur;./images/Immagini Pokemon/bulbasaur.gif;80;<html>Bulbasaur è un pokemon dall'aspetto mite,<html> ma se si trova in difficoltà la sua potenza cresce.<html>;30;Berserk;
+Charmander;./images/Immagini Pokemon/charmander.gif;90;<html>Charmander è molto legato alla squadra:<html> è in grado di aumentarne l'attacco, in parte.<html>;30;Potenziamento;
+Squirtle;./images/Immagini Pokemon/squirtle.gif;90;<html>Squirtle ha un potente scudo<html> che gli permette di aumentare le sue difese<html> durante lo scontro<html>;30;Scudo;
+Magicarp;./images/Immagini Pokemon/magicarp.gif;70;<html>Magicarp è il pokemon<html> premio per chi perde.<html> Le sue abilità sono avvolte da un segreto<html>;69;Mossa speciale;

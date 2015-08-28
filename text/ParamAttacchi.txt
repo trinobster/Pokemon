@@ -1,0 +1,5 @@
+Turbofuoco;10;cat.png;2;
+Doppia Sberla;10;cat.png;1;
+Taglio che fa male;10;cat.png;1;
+Acido che brucia;10;cat.png;1;
+Idrocannone;10;cat.png;2;

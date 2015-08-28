@@ -1,0 +1,13 @@
+HO MOSSA SPECIALE: Snorlax vita 103 limite 95 attacco 10- Bulbasaur vita 111 limite 95 attacco 22
+NORMALE NEMICO Snorlax vita 81 limite 95 attacco 10- Bulbasaur vita 111 limite 95 attacco 22
+HO MOSSA SPECIALE: Snorlax vita 111 limite 95 attacco 10- Bulbasaur vita 111 limite 95 attacco 22
+NORMALE NEMICO Snorlax vita 89 limite 95 attacco 10- Bulbasaur vita 111 limite 95 attacco 22
+HO ATTACCATO: false vita Snorlax limite 89 attacco 95- 10 vita Bulbasaur limite 101 attacco 95
+NORMALE NEMICO Snorlax vita 67 limite 95 attacco 10- Bulbasaur vita 101 limite 95 attacco 22
+HO ATTACCATO: false vita Snorlax limite 67 attacco 95- 10 vita Bulbasaur limite 91 attacco 95
+SPECIALE NEMICO Snorlax vita 67 limite 95 attacco 10- Bulbasaur vita 91 limite 95 attacco 52
+HO ATTACCATO: false vita Snorlax limite 67 attacco 95- 10 vita Bulbasaur limite 81 attacco 95
+SPECIALE NEMICO Snorlax vita 67 limite 95 attacco 10- Bulbasaur vita 81 limite 95 attacco 82
+
+prova con bulbasaur
+selvatico snorlax che problema da
